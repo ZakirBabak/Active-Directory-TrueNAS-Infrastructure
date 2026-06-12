@@ -38,7 +38,8 @@ Deployment of a centralized infrastructure based on Microsoft Active Directory a
 - SMB
 - iSCSI
 - Hyper-V Virtualization
+---
 
-- Auther
+## Auteur
 
-- Zakir Babak
+Zakir Babak
